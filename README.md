@@ -9,9 +9,7 @@ As a first task, the company would like you to generate a report that breaks dow
 Report should include each of the following:
 
 1 - Player Count 
-
 2 - Purchasing Analysis (Total) 
-
 3 - Gender Demographics 
 
 4 - Purchasing Analysis (Gender) 
